@@ -1,6 +1,8 @@
 # Project ThreeJS_AI
 
-A simple 3D Shirt model utilizing ThreeJS library for modeling, lightning and camera. It currently has these three options to customize the shirt: color palette, image file upload and AI prompt (Dall-E 2).
+A simple 3D Shirt model utilizing ThreeJS library for modeling, lightning and camera. It currently has these three options to customize the shirt: color palette, image file upload and AI prompt (Dall-E 2). Here's a live version of the proyect. 
+
+**[Online version](https://junhuohz.com/)
 
 ## Getting Started
 
@@ -55,4 +57,3 @@ npm run dev
 It still served as a good base to start on. It obviously isn't a 1 to 1 project to what he has since I had to find and replace some depreciated functions with their newer 
 counterparts, but it's the fact that I've started this project and managed to tough it out to finally have a working project on the web. Many thanks for the video.
 
-**[End Result](https://junhuohz.com/)
